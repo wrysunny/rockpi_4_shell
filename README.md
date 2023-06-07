@@ -11,3 +11,6 @@ rock pi 4 系列 3D打印外壳
 
 # 说明
 可以使用嘉立创的3D打印，较为便宜的是树脂打印。想要好看的可以上CNC阳极氧化（较贵）
+
+# from
+https://www.thingiverse.com/thing:3499190
